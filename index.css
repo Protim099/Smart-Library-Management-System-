@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  font-family: "IBM Plex Sans", ui-sans-serif, system-ui;
+  background: #f5f1e8;
+}
+
+.font-serif-lora {
+  font-family: "Lora", Georgia, serif;
+}
